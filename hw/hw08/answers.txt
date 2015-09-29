@@ -100,16 +100,18 @@ The sum of G, C, A, T and N-counts: 40000
 The total_count variable: 40000
 len(seq): 40000
 
-
-You can use either total_count or len(seq) as the denominator. They also include the remaining letters (Ns) in the total.
-The sum of A,G, T, and C-counts does not.
+By the definition of GC content is to use the sum of G, C, A and T-counts
 
 Problem 7:
-AT/GC: 0.6616616616616616
+
+AT/GC: 1.3223416174746196
+
 
 
 Problem 8:
-AT/GC: 0.6616616616616616
+
+GC classification:  moderate gc content
+
 
 
 Collaboration:
