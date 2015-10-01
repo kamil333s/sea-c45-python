@@ -45,4 +45,4 @@ def sum_series(n, zeroth=0, oneth=1):
         return oneth
     else:
         return sum_series(n - 1, zeroth, oneth) + \
-            sum_series(n - 2, zeroth, oneth)           
+            sum_series(n - 2, zeroth, oneth)
